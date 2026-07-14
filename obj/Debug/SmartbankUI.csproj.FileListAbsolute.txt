@@ -1,0 +1,7 @@
+C:\Users\Ofentse Montsho\source\repos\SmartbankUI\SmartbankUI\bin\Debug\SmartbankUI.exe.config
+C:\Users\Ofentse Montsho\source\repos\SmartbankUI\SmartbankUI\bin\Debug\SmartbankUI.exe
+C:\Users\Ofentse Montsho\source\repos\SmartbankUI\SmartbankUI\bin\Debug\SmartbankUI.pdb
+C:\Users\Ofentse Montsho\source\repos\SmartbankUI\SmartbankUI\obj\Debug\SmartbankUI.csproj.AssemblyReference.cache
+C:\Users\Ofentse Montsho\source\repos\SmartbankUI\SmartbankUI\obj\Debug\SmartbankUI.csproj.CoreCompileInputs.cache
+C:\Users\Ofentse Montsho\source\repos\SmartbankUI\SmartbankUI\obj\Debug\SmartbankUI.exe
+C:\Users\Ofentse Montsho\source\repos\SmartbankUI\SmartbankUI\obj\Debug\SmartbankUI.pdb
